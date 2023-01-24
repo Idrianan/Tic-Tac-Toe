@@ -30,3 +30,6 @@ def test_check_win():
     assert check_win(y_won,"Y") == 1
     assert check_win(y_won,"X") == 0
 
+test_check_if_draw()
+test_check_symbol()
+test_check_win()

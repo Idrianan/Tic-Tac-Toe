@@ -1,0 +1,7 @@
+bin/
+include/
+lib/
+lib64/
+__pychache/
+pyvenv.cfg
+.pytest_chache/
